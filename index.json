@@ -1,0 +1,15 @@
+{
+    "addons": [
+      {
+        "id": "light_wrangler",
+        "name": "Light Wrangler",
+        "description": "A tool to manage lighting in Blender",
+        "version": "2.1.9",
+        "blender_version_min": "4.2.0",
+        "blender_version_max": "4.3.0",
+        "tags": ["lighting", "rendering"],
+        "download_url": "https://drive.google.com/file/d/10NLC8CIHehxqYRz7jzpQkfDwSmC1r8Rj/view?usp=sharing"
+      }
+    ]
+  }
+  
